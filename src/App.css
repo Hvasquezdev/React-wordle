@@ -1,0 +1,11 @@
+.App .header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 32px;
+  border-bottom: 1px solid white;
+}
+
+.App .header h1 {
+  margin: 0;
+}
